@@ -1,0 +1,11 @@
+# Ignorer l'environnement virtuel du backend
+backend/venv/
+backend/.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Variables d'environnement / Configuration locale
+.env
+.vscode/
